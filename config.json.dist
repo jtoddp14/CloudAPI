@@ -1,0 +1,12 @@
+{
+    "database": {
+        "socketPath": "",
+        "user": "",
+        "password": "",
+        "defaultSchema": "",
+        "allowMultipleStatements": true
+    },
+    "authentication": {
+        "pepper": ""
+    }
+}

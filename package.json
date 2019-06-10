@@ -1,0 +1,21 @@
+{
+  "name": "accupos-cloud-sync-web-service",
+  "description": "AccoPOS web service for cloud syncing",
+  "author": {
+    "name": "Yuval Herziger",
+    "email": "yuval.herziger@accupos.com"
+  },
+  "dependencies": {
+    "mysql": "^2.15.0",
+    "firebase-functions": "^0.8.2",
+    "js2xmlparser": "^3.0.0",
+    "moment": "^2.21.0",
+    "crypto": "^1.0.1"
+  },
+  "scripts": {
+    "serve": "firebase serve --only functions",
+    "shell": "firebase experimental:functions:shell",
+    "start": "npm run shell",
+    "logs": "firebase functions:log"
+  }
+}

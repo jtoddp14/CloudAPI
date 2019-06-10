@@ -1,0 +1,12 @@
+{
+    "database": {
+        "socketPath": "/cloudsql/api-sandbox-198612:us-central1:mysql-sandbox",
+        "user": "apiaccess",
+        "password": "$y-3eCu6VgK}8FB!",
+        "masterSchema": "cloudApiMaster",
+        "allowMultipleStatements": true
+    },
+    "authentication": {
+        "pepper": "Wt$}&3h2]@s8-gmpx.vL8r2N"
+    }
+}
