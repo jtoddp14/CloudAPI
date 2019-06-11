@@ -2,8 +2,8 @@
   "name": "accupos-cloud-sync-web-service",
   "description": "AccoPOS web service for cloud syncing",
   "author": {
-    "name": "Yuval Herziger",
-    "email": "yuval.herziger@accupos.com"
+    "name": "Jeremiah Page",
+    "email": "jeremiah.page@accupos.com"
   },
   "dependencies": {
     "crypto": "^1.0.1",
